@@ -16,5 +16,4 @@
   <project path="miui" name="MiCode/patchrom_miui" />
   <project path="tools" name="MiCode/patchrom_tools" />
   <project path="mx" name="MiCode/patchrom_mx" />
-  <project path="u970" name="MiCode/patchrom_u970" />
 </manifest>
